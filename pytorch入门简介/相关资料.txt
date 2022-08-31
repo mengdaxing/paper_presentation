@@ -1,0 +1,4 @@
+视频地址：https://www.bilibili.com/video/BV1Jt4y1G7Qf/
+pytorch中文文档：https://pytorch123.com/SecondSection/neural_networks
+免费深度学习机器：https://colab.research.google.com
+
